@@ -1,6 +1,18 @@
-img{
+img {
   border: solid rgba(14, 13, 13, 0.336);
 }
-.fab{
+.fab {
   height: 100;
+}
+.para {
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+}
+.col-lg-6 {
+  margin-top: 10%;
+}
+#portfolio {
+  background-color: #5585b5;
+  color: white;
 }
